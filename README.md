@@ -37,10 +37,10 @@
 * Problema de fuerzas
 
 ## Principios Eléctricos y Aplicaciones Digitales
-<p align="center">Ing. José Eduardo Gerónimo Castro</p>
+> <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
 * Darle estructura a la libreta
-* Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta
+* ~~Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta~~
 * Esperar documentos que va a entregar
 
 ## Simulación
@@ -58,7 +58,7 @@
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
 
 * Investigar 1.1, 1.2
-* Traer software de simulación VirtualBox y WMware
+* Traer software de simulación VirtualBox, WMware, Esxi
 
 ## Inglés
 <p align="center">M.A.P.I. José Gerardo García Vela</p>
