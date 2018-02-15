@@ -17,8 +17,8 @@
   <a href="#simulación">Simulación</a> •
   <a href="#ecuaciones-diferenciales">Ecuaciones Diferenciales</a> •
   <a href="#taller-de-sistemas-operativos">Taller de Sistemas Operativos</a> •
-  <a href="#inglés">Inglés</a>
-  <a href="#horario">Inglés</a>
+  <a href="#inglés">Inglés</a> •
+  <a href="#horario">HOrario</a>
 </p>
 
 ## Taller de Base de Datos
