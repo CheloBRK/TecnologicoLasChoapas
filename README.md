@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#taller-de-base-de-datos">Taller de Base de Datos</a> •
   <a href="#download">Tópicos Avanzados de Programación</a> •
-  <a href="#how-to-use">Física General</a> •
+  <a href="#física-general">Física General</a> •
   <a href="#credits">Principios Eléctricos y Aplicaciones Digitales</a> •
   <a href="#related">Simulación</a> •
   <a href="#license">Ecuaciones Diferenciales</a>
