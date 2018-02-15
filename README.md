@@ -26,7 +26,7 @@
 * Sin pendientes
 
 ## Tópicos Avanzados de Programación
-<p align="center">M.C. José Alfonso Gómez Sánchez</p>
+`M.C. José Alfonso Gómez Sánchez`
 
 * Sin pendientes
 
