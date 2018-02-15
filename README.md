@@ -31,7 +31,7 @@
 * Sin pendientes
 
 ## Física General
-<p align="center">Ing.Óscar Martínez Antonio</p>
+<p align="center">Ing. Óscar Martínez Antonio</p>
 
 * 9 Actividades del alumno al final de la unidad I
 * Problema de fuerzas
