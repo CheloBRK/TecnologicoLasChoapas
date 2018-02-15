@@ -15,9 +15,9 @@
   <a href="#física-general">Física General</a> •
   <a href="#principios-eléctricos-y-aplicaciones-digitales">Principios Eléctricos y Aplicaciones Digitales</a> •
   <a href="#simulación">Simulación</a> •
-  <a href="#ecuaciones-diferenciales">Ecuaciones Diferenciales</a>
-  <a href="#taller-de-sistemas-operativos">Taller de Sistemas Operativos</a>
-  <a href="#inglés">Inglés</a>
+  <a href="#ecuaciones-diferenciales">Ecuaciones Diferenciales</a> •
+  <a href="#taller-de-sistemas-operativos">Taller de Sistemas Operativos</a> •
+  <a href="#inglés">Inglés</a> •
 </p>
 
 ## Taller de Base de Datos
