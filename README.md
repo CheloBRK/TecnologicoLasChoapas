@@ -61,7 +61,7 @@
 * Traer software de simulación VirtualBox y WMware
 
 ## Inglés
-<p align="center">M.A.P.I. José Gerónimo García Morales</p>
+<p align="center">M.A.P.I. José Gerardo García Vela</p>
 
 * Free times activities
 * Adverbs of frequency
