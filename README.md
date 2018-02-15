@@ -39,11 +39,11 @@
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
-* Darle estructura a la libreta
-* ~~Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta~~
-* Esperar documentos que va a entregar
-* Investigar el orden de conductividad eléctrica de distintos materiales
-* Cómo generar corriente eléctrica continua
+- [ ] Darle estructura a la libreta
+- [x] ~~Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta~~
+- [ ] Esperar documentos que va a entregar
+- [ ] Investigar el orden de conductividad eléctrica de distintos materiales
+- [ ] Cómo generar corriente eléctrica continua
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
