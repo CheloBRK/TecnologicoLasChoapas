@@ -10,7 +10,7 @@
 <h4 align="center">Tareas</h4>
 
 <p align="center">
-  <a href="#key-features">Taller de Base de Datos</a> •
+  <a href="#taller-de-base-de-datos">Taller de Base de Datos</a> •
   <a href="#how-to-use">Física General</a> •
   <a href="#download">Tópicos Avanzados de Programación</a> •
   <a href="#credits">Principios Eléctricos y Aplicaciones Digitales</a> •
