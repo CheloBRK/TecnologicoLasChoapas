@@ -82,7 +82,7 @@
 | -             |
 | Taller Base D |
 | Taller Base D |
-| Receso        |
+| *Receso*      |
 | Física Gral   |
 | Física Gral   |
 | Tópicos Avanz |
