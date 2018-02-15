@@ -23,18 +23,18 @@
 ## Taller de Base de Datos
 <p align="center">M.C. Selene García Nieves</p>
 
-* Sin pendientes
+- [ ] Sin pendientes
 
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
 
-* Sin pendientes
+- [ ] Sin pendientes
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
 
-* 9 Actividades del alumno al final de la unidad I
-* Problema de fuerzas
+- [ ] 9 Actividades del alumno al final de la unidad I
+- [ ] Problema de fuerzas
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -48,26 +48,26 @@
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
-* Investigar el tema 1.1 en la libreta
+- [ ] Investigar el tema 1.1 en la libreta
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
 
-* Darle formato a la libreta
-* Investigar el 1.1 y el 1.1.1 en la libreta
+- [ ] Darle formato a la libreta
+- [ ] Investigar el 1.1 y el 1.1.1 en la libreta
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
 
-* Investigar 1.1, 1.2
-* Traer software de simulación VirtualBox, WMware, Esxi
+- [ ] Investigar 1.1, 1.2
+- [ ] Traer software de simulación VirtualBox, WMware, Esxi
 
 ## Inglés
 <p align="center">M.A.P.I. José Gerardo García Vela</p>
 
-* Free times activities
-* Adverbs of frequency
-* Like and dislike
-* How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)
-* Plurales regulares e irregulares
-* Abecedario y vocales
+- [ ] Free times activities
+- [ ] Adverbs of frequency
+- [ ] Like and dislike
+- [ ] How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)
+- [ ] Plurales regulares e irregulares
+- [ ] Abecedario y vocales
