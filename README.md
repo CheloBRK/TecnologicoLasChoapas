@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="#taller-de-base-de-datos">Taller de Base de Datos</a> •
-  <a href="#how-to-use">Física General</a> •
   <a href="#download">Tópicos Avanzados de Programación</a> •
+  <a href="#how-to-use">Física General</a> •
   <a href="#credits">Principios Eléctricos y Aplicaciones Digitales</a> •
   <a href="#related">Simulación</a> •
   <a href="#license">Ecuaciones Diferenciales</a>
@@ -24,3 +24,27 @@
 <p align="center">M.C. Selene García Nieves</p>
 
 * Sin tareas
+
+## Tópicos Avanzados de Programación
+<p align="center">M.C. José Alfonso Gómez Sánchez</p>
+
+* Sin tareas
+
+## Física General
+<p align="center">Ing.Óscar Martínez Antonio</p>
+
+## Principios Eléctricos y Aplicaciones Digitales
+<p align="center">Ing. José Eduardo Gerónimo Castro</p>
+
+## Simulación
+<p align="center">Ing. José Eduardo Gerónimo Castro</p>
+
+## Ecuaciones Diferenciales
+<p align="center">Ing. Dámaris García Morales</p>
+
+## Taller de Sistemas
+<p align="center">M.R.T José Antonio Zárate Urgell</p>
+
+## Inglés
+<p align="center">M.A.P.I. José Gerónimo García Morales</p>
+
