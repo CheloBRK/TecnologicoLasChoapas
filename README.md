@@ -21,3 +21,6 @@
 </p>
 
 ## Taller de Base de Datos
+<p align="center">M.C. Selene García Nieves</p>
+
+* Sin tareas
