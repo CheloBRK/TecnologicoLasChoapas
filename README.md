@@ -18,6 +18,7 @@
   <a href="#ecuaciones-diferenciales">Ecuaciones Diferenciales</a> •
   <a href="#taller-de-sistemas-operativos">Taller de Sistemas Operativos</a> •
   <a href="#inglés">Inglés</a>
+  <a href="#horario">Inglés</a>
 </p>
 
 ## Taller de Base de Datos
@@ -60,6 +61,7 @@
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
 
 - [ ] Investigar 1.1, 1.2
+- [ ] Apuntes de las diapositivas
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi
 
 ## Inglés
@@ -71,3 +73,17 @@
 - [ ] How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)
 - [ ] Plurales regulares e irregulares
 - [ ] Abecedario y vocales
+
+## Horario
+
+| Lunes         |
+|     :---:     |
+| Libre         |
+| Libre         |
+| Taller Base D |
+| Taller Base D |
+| Receso        |
+| Física Gral   |
+| Física Gral   |
+| Tópicos Avanz |
+| Tópicos Avanz |
