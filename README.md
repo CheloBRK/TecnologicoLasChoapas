@@ -78,8 +78,8 @@
 
 | Lunes         |
 |     :---:     |
-| Libre         |
-| Libre         |
+| -             |
+| -             |
 | Taller Base D |
 | Taller Base D |
 | Receso        |
