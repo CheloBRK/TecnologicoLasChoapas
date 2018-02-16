@@ -76,14 +76,14 @@
 
 ## Horario
 
-| Lunes         |
-|     :---:     |
-| -             |
-| -             |
-| Taller Base D |
-| Taller Base D |
-| *Receso*      |
-| Física Gral   |
-| Física Gral   |
-| Tópicos Avanz |
-| Tópicos Avanz |
+| Lunes         | Martes        |
+|     :---:     |     :---:     |
+| -             | -             |
+| -             | -             |
+| Taller Base D | Taller Base D |
+| Taller Base D | Taller Base D |
+| *R*           | *E*           |
+| Física Gral   | Inglés        |
+| Física Gral   | Inglés        |
+| Tópicos Avanz | Tópicos Avanz |
+| Tópicos Avanz | Tópicos Avanz |
