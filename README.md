@@ -67,12 +67,12 @@
 ## Inglés
 <p align="center">M.A.P.I. José Gerardo García Vela</p>
 
-- [ ] Free times activities
-- [ ] Adverbs of frequency
-- [ ] Like and dislike
-- [ ] How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)
-- [ ] Plurales regulares e irregulares
-- [ ] Abecedario y vocales
+- [x] ~~Free times activities~~
+- [x] ~~Adverbs of frequency~~
+- [x] ~~Like and dislike~~
+- [x] ~~How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)~~
+- [x] ~~Plurales regulares e irregulares~~
+- [x] ~~Abecedario y vocales~~
 
 ## Horario
 
