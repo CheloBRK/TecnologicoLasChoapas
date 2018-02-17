@@ -48,7 +48,7 @@
 - [x] ~~Esperar documentos que va a entregar~~
 - [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
 - [x] ~~Cómo generar corriente eléctrica continua~~
-- [ ] Investigar que es un transistor (opcional)
+- [ ] Investigar que es un transistor (opcional) J
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
