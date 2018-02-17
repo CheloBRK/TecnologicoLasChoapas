@@ -58,7 +58,7 @@
 
 - [ ] Darle formato a la libreta
 - [x] ~~Investigar el 1.1 y el 1.1.1 en la libreta~~
-- [ ] Ejercicio de Orden, Grado y Linealidad
+- [x] ~~Ejercicio de Orden, Grado y Linealidad~~
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
@@ -80,14 +80,15 @@
 
 ## Horario
 
-| Lunes         | Martes        |
-|     :---:     |     :---:     |
-| -             | -             |
-| -             | -             |
-| Taller Base D | Taller Base D |
-| Taller Base D | Taller Base D |
-| *R*           | *E*           |
-| Física Gral   | Inglés        |
-| Física Gral   | Inglés        |
-| Tópicos Avanz | Tópicos Avanz |
-| Tópicos Avanz | Tópicos Avanz |
+| Lunes         | Martes        | Miércoles    | Jueves      | Viernes     |
+|     :---:     |     :---:     |     :---:    |     :---:   |     :---:   |
+| -             | -             | P. Eléctric  | Simulación  | Simulación  |
+| -             | -             | P. Eléctric  | Simulación  | Simulación  |
+| Taller Base D | Taller Base D | Simulación   | Ecua. Dif.  | P. Eléctric |
+| Taller Base D | Taller Base D | Ecua. Dif.   | Ecua. Dif.  | P. Eléctric |
+| *R*           | *E*           | *C*          | *E*         | *S*         |      
+| Física Gral   | Inglés        | Física Gral  | Inglés      | Física Gral |
+| Física Gral   | Inglés        | Física Gral  | Inglés      | Inglés      |
+| Tópicos Avanz | Tópicos Avanz | Tópicos Avanz| P. Eléctric | Ecua. Dif.  |
+| Tópicos Avanz | Tópicos Avanz | Taller S.O.  | Taller S.O. | Ecua. Dif.  |
+| -             | -             | Taller S.O.  | Taller S.O. | -           |
