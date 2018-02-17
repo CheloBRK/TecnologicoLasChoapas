@@ -29,7 +29,9 @@
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
 
-- [ ] Sin pendientes
+- [ ] Aplicaciones móviles de SmartGeeks
+- [ ] Escala Likert
+- [ ] Formato IEEE830
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
