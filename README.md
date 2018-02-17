@@ -80,15 +80,15 @@
 
 ## Horario
 
-| Lunes         | Martes        | Miércoles    | Jueves      | Viernes     |
-|     :---:     |     :---:     |     :---:    |     :---:   |     :---:   |
-| -             | -             | P. Eléctric  | Simulación  | Simulación  |
-| -             | -             | P. Eléctric  | Simulación  | Simulación  |
-| Taller Base D | Taller Base D | Simulación   | Ecua. Dif.  | P. Eléctric |
-| Taller Base D | Taller Base D | Ecua. Dif.   | Ecua. Dif.  | P. Eléctric |
-| *R*           | *E*           | *C*          | *E*         | *S*         |      
-| Física Gral   | Inglés        | Física Gral  | Inglés      | Física Gral |
-| Física Gral   | Inglés        | Física Gral  | Inglés      | Inglés      |
-| Tópicos Avanz | Tópicos Avanz | Tópicos Avanz| P. Eléctric | Ecua. Dif.  |
-| Tópicos Avanz | Tópicos Avanz | Taller S.O.  | Taller S.O. | Ecua. Dif.  |
-| -             | -             | Taller S.O.  | Taller S.O. | -           |
+| Horario       | Lunes         | Martes        | Miércoles     | Jueves       | Viernes      |
+| :---:         |     :---:     |     :---:     |     :---:     |     :---:    |     :---:    |
+| 7:30-8:20     | -             | -             | P. Eléctric   | Simulación   | Simulación   |
+| 8:20-9:10     | -             | -             | P. Eléctric   | Simulación   | Simulación   |
+| 9:10-10:00    | Taller Base D | Taller Base D | Simulación    | Ecua. Dif.   | P. Eléctric  |
+| 10:00-10:50   | Taller Base D | Taller Base D | Ecua. Dif.    | Ecua. Dif.   | P. Eléctric  |
+| *R*           | *E*           | *C*           | *E*           | *S*          | *0*          |      
+| 11:10-12:00   | Física Gral   | Inglés        | Física Gral   | Inglés       | Física Gral  |
+| 12:00-12:50   | Física Gral   | Inglés        | Física Gral   | Inglés       | Inglés       |
+| 12:50-13:40   | Tópicos Avanz | Tópicos Avanz | Tópicos Avanz | P. Eléctric  | Ecua. Dif.   |
+| 13:40-14:30   | Tópicos Avanz | Tópicos Avanz | Taller S.O.   | Taller S.O.  | Ecua. Dif.   |
+| 14:30-15:20   | -             | -             | Taller S.O.   | Taller S.O.  | -            |
