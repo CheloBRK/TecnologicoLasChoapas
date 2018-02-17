@@ -35,27 +35,30 @@
 <p align="center">Ing. Óscar Martínez Antonio</p>
 
 - [ ] 9 Actividades del alumno al final de la unidad I
-- [ ] Problema de fuerzas
+- [x] ~~Problema de fuerzas~~
+- [ ] 2 Problemas de resultantes
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
 - [ ] Darle estructura a la libreta
 - [x] ~~Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta~~
-- [ ] Esperar documentos que va a entregar
-- [ ] Investigar el orden de conductividad eléctrica de distintos materiales
-- [ ] Cómo generar corriente eléctrica continua
+- [x] ~~Esperar documentos que va a entregar~~
+- [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
+- [x] ~~Cómo generar corriente eléctrica continua~~
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
-- [ ] Investigar el tema 1.1 en la libreta
+- [x] ~~Investigar el tema 1.1 en la libreta~~
+- [ ] Bajar el software PROMODEL
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
 
 - [ ] Darle formato a la libreta
-- [ ] Investigar el 1.1 y el 1.1.1 en la libreta
+- [x] ~~Investigar el 1.1 y el 1.1.1 en la libreta~~
+- [ ] Ejercicio de Orden, Grado y Linealidad
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
@@ -73,6 +76,7 @@
 - [x] ~~How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)~~
 - [x] ~~Plurales regulares e irregulares~~
 - [x] ~~Abecedario y vocales~~
+- [ ] Personal information
 
 ## Horario
 
