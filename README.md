@@ -18,7 +18,7 @@
   <a href="#ecuaciones-diferenciales">Ecuaciones Diferenciales</a> •
   <a href="#taller-de-sistemas-operativos">Taller de Sistemas Operativos</a> •
   <a href="#inglés">Inglés</a> •
-  <a href="#horario">Horario</a>
+  <a href="#horario">Horario</a> •
   <a href="#calendario-2017-2018">Calendario</a>
 </p>
 
