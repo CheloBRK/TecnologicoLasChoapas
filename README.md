@@ -99,4 +99,4 @@
 
 ## Calendario 2017-2018
 
-<p alig="center"><img src="https://raw.githubusercontent.com/avexyk/TecnologicoLasChoapas/master/Semestre4/CalendarioEscolar20172018.jpeg" alt="Calendario" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/avexyk/TecnologicoLasChoapas/master/Semestre4/CalendarioEscolar20172018.jpeg" alt="Calendario" width="700"></p>
