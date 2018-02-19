@@ -42,7 +42,7 @@
 - [ ] 9 Actividades del alumno al final de la unidad I
 - [x] ~~Problema de fuerzas~~
 - [x] ~~2 Problemas de resultantes~~
-- [ ] 1.5 Cuerpos rígidos y principio de transimisibilidad
+- [ ] Investigar 1.5 Cuerpos rígidos y principio de transimisibilidad
 - [ ] 4 Problemas de tensión
 
 ## Principios Eléctricos y Aplicaciones Digitales
