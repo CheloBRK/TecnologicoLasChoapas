@@ -25,7 +25,9 @@
 ## Taller de Base de Datos
 <p align="center">M.C. Selene García Nieves</p>
 
-- [ ] Sin pendientes
+- [ ] Instalar MySQL
+- [ ] Darle formato a la libreta
+- [ ] Portafolio es digital y físico
 
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
@@ -39,7 +41,9 @@
 
 - [ ] 9 Actividades del alumno al final de la unidad I
 - [x] ~~Problema de fuerzas~~
-- [ ] 2 Problemas de resultantes
+- [x] ~~2 Problemas de resultantes~~
+- [ ] 1.5 Cuerpos rígidos y principio de transimisibilidad
+- [ ] 4 Problemas de tensión
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
