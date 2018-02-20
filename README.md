@@ -38,7 +38,7 @@
 - [ ] Formato IEEE830
 - [ ] Investigar los 1.2 1.3 del temario
 - [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases))
-- [ ] Primeras dos atividades de aprendizaje del temario
+- [ ] Primeras dos actividades de aprendizaje del temario
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
