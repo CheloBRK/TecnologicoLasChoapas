@@ -72,7 +72,7 @@
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
 
 - [ ] Investigar 1.1, 1.2
-- [ ] Apuntes de las diapositivas
+- [ ] Apuntes de las diapositivas (opcional)
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi
 
 ## Inglés
