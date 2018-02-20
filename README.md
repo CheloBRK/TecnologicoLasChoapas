@@ -88,7 +88,8 @@
 - [x] ~~How often ... ? one / twice . etc (Símbolos de puntuación en la libreta)~~
 - [x] ~~Plurales regulares e irregulares~~
 - [x] ~~Abecedario y vocales~~
-- [ ] Personal information
+- [x] ~~Personal information~~
+- [ ] 25 Verbs (Present, past, past participle)
 
 ## Horario
 
