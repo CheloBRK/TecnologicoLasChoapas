@@ -36,8 +36,8 @@
 - [ ] Aplicaciones móviles de SmartGeeks
 - [ ] Escala Likert
 - [ ] Formato IEEE830
-- [ ] Investigar los 1.2 1.3 del temario
-- [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases))
+- [ ] Investigar los subtemas 1.2 y 1.3 del temario
+- [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases)
 - [ ] Primeras dos actividades de aprendizaje del temario
 
 ## Física General
@@ -46,7 +46,7 @@
 - [ ] 9 Actividades del alumno al final de la unidad I
 - [x] ~~Problema de fuerzas~~
 - [x] ~~2 Problemas de resultantes~~
-- [ ] Investigar 1.5 Cuerpos rígidos y principio de transimisibilidad
+- [ ] Investigar 1.5 Cuerpos rígidos y principio de transmisibilidad
 - [ ] 4 Problemas de tensión
 
 ## Principios Eléctricos y Aplicaciones Digitales
