@@ -78,7 +78,7 @@
 
 - [ ] Investigar 1.1, 1.2
 - [ ] Apuntes de las diapositivas (opcional)
-- [ ] Traer software de simulación VirtualBox, WMware, Esxi
+- [ ] Traer software de simulación VirtualBox, WMware, Esxi y Windows 7 32bits
 
 ## Inglés
 <p align="center">M.A.P.I. José Gerardo García Vela</p>
