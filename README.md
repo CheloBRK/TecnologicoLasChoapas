@@ -49,6 +49,7 @@
 - [x] ~~2 Problemas de resultantes~~
 - [ ] Investigar 1.5 Cuerpos rígidos y principio de transmisibilidad
 - [ ] 4 Problemas de tensión
+- [ ] Problema de momentos
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -59,6 +60,7 @@
 - [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
 - [x] ~~Cómo generar corriente eléctrica continua~~
 - [ ] Investigar que es un transistor (opcional)
+- Lectura páginas desconocidas
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -72,6 +74,7 @@
 - [ ] Darle formato a la libreta
 - [x] ~~Investigar el 1.1 y el 1.1.1 en la libreta~~
 - [x] ~~Ejercicio de Orden, Grado y Linealidad~~
+- [ ] Ecuación diferencial
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
