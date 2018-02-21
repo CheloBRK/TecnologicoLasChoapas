@@ -19,6 +19,7 @@
   <a href="#taller-de-sistemas-operativos">Taller de Sistemas Operativos</a> •
   <a href="#inglés">Inglés</a> •
   <a href="#horario">Horario</a> •
+  <a href="#becas">Becas</a> •
   <a href="#calendario-2017-2018">Calendario</a>
 </p>
 
@@ -109,3 +110,12 @@
 ## Calendario 2017-2018
 
 <p align="center"><img src="https://raw.githubusercontent.com/avexyk/TecnologicoLasChoapas/master/Semestre4/CalendarioEscolar20172018.jpeg" alt="Calendario" width="700"></p>
+
+## Becas
+
+http://www.subes.sep.gob.mx/
+<br>
+<p>18 de febrero al 24 de febrero del 2018. Carpeta naranja de sistemas. Becas disponibles:</p>
+
+*Manutención
+*Transporte
