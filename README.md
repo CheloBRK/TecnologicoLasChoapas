@@ -117,5 +117,6 @@ http://www.subes.sep.gob.mx/
 <br>
 <p>18 de febrero al 24 de febrero del 2018. Carpeta naranja de sistemas. Becas disponibles:</p>
 
-*Manutención
-*Transporte
+:gun: Manutención
+<br>
+:gun: Transporte
