@@ -67,6 +67,7 @@
 
 - [x] ~~Investigar el tema 1.1 en la libreta~~
 - [ ] Bajar el software PROMODEL
+- [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
