@@ -75,7 +75,8 @@
 - [ ] Darle formato a la libreta
 - [x] ~~Investigar el 1.1 y el 1.1.1 en la libreta~~
 - [x] ~~Ejercicio de Orden, Grado y Linealidad~~
-- [ ] Ecuación diferencial
+- [x] ~~Ecuación diferencial~~
+- [ ] Ecuaciones diferenciales
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
@@ -83,6 +84,7 @@
 - [ ] Investigar 1.1, 1.2
 - [ ] Apuntes de las diapositivas (opcional)
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi y Windows 7 32bits
+- [ ] Conseguir el virtualbox y buscar como habilitar la carpeta compartida.
 
 ## Inglés
 <p align="center">M.A.P.I. José Gerardo García Vela</p>
@@ -95,6 +97,7 @@
 - [x] ~~Abecedario y vocales~~
 - [x] ~~Personal information~~
 - [ ] 25 Verbs (Present, past, past participle)
+- [ ] 25 verbos que dicto
 
 ## Horario
 
