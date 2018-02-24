@@ -48,7 +48,7 @@
 - [x] ~~Problema de fuerzas~~
 - [x] ~~2 Problemas de resultantes~~
 - [ ] Investigar 1.5 Cuerpos rígidos y principio de transmisibilidad
-- [ ] 4 Problemas de tensión
+- [x] ~~4 Problemas de tensión~~
 - [ ] Problema de momentos
 - [ ] Investigar el 1.7
 - [ ] Problemas de las fotos
@@ -62,8 +62,8 @@
 - [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
 - [x] ~~Cómo generar corriente eléctrica continua~~
 - [ ] Investigar que es un transistor (opcional)
-- Lectura páginas desconocidas
-- Investigar el datasheet diodo IN4001 y obtener el amperaje a los 0.8 Volts
+- [ ] Lectura páginas desconocidas
+- [ ] Investigar el datasheet diodo IN4001 y obtener el amperaje a los 0.8 Volts
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
