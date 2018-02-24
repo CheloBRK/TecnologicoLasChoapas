@@ -50,6 +50,8 @@
 - [ ] Investigar 1.5 Cuerpos rígidos y principio de transmisibilidad
 - [ ] 4 Problemas de tensión
 - [ ] Problema de momentos
+- [ ] Investigar el 1.7
+- [ ] Problemas de las fotos
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -61,6 +63,7 @@
 - [x] ~~Cómo generar corriente eléctrica continua~~
 - [ ] Investigar que es un transistor (opcional)
 - Lectura páginas desconocidas
+- Investigar el datasheet diodo IN4001 y obtener el amperaje a los 0.8 Volts
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -68,6 +71,7 @@
 - [x] ~~Investigar el tema 1.1 en la libreta~~
 - [ ] Bajar el software PROMODEL
 - [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
+- [ ] Problemas de las diapositivas
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
@@ -77,6 +81,7 @@
 - [x] ~~Ejercicio de Orden, Grado y Linealidad~~
 - [x] ~~Ecuación diferencial~~
 - [ ] Ecuaciones diferenciales
+- [ ] Investigar los temas 1.1.2 y 1.1.3
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
