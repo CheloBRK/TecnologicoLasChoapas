@@ -84,7 +84,7 @@
 - [x] ~~Ejercicio de Orden, Grado y Linealidad~~
 - [x] ~~Ecuación diferencial~~
 - [ ] Ecuaciones diferenciales
-- [ ] Investigar los temas 1.1.2 y 1.1.3
+- [ ] Investigar los temas 1.1.2, 1.1.3, 1.1.4, 1.2, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
@@ -111,6 +111,7 @@
 - [x] ~~Personal information~~
 - [ ] 25 Verbs (Present, past, past participle)
 - [ ] 25 verbos que dicto
+- [ ] Texto de cualquier temática en ingles
 
 ## Horario
 
