@@ -64,6 +64,9 @@
 - [ ] Investigar que es un transistor (opcional)
 - [ ] Lectura páginas desconocidas
 - [ ] Investigar el datasheet diodo IN4001 y obtener el amperaje a los 0.8 Volts
+- [ ] Investigar a cuanta corriente tiene nuestra lap
+- [ ] Cuantos watts consume la computadora
+- [ ] Cuanto gasta en una hora la computadora
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
