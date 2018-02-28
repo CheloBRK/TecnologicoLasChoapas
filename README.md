@@ -93,6 +93,11 @@
 - [ ] Apuntes de las diapositivas (opcional)
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi y Windows 7 32bits
 - [ ] Conseguir el virtualbox y buscar como habilitar la carpeta compartida.
+- [ ] Windows Server 32 bits / 64 bits
+- [ ] Windows 10
+- [ ] Memoria para crear una USB Booteable
+- [ ] Rufus
+- [ ] Distribuciones GNU / Linux (Ubuntu Escritorio, Ubuntu Server)
 
 ## Inglés
 <p align="center">M.A.P.I. José Gerardo García Vela</p>
