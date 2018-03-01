@@ -53,6 +53,7 @@
 - [ ] Problema de momentos
 - [ ] Investigar el 1.7
 - [ ] Problemas de las fotos
+- [x] ~~ExamenUnidadI~~
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
