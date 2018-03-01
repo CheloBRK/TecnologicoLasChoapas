@@ -30,6 +30,7 @@
 - [ ] Darle formato a la libreta
 - [ ] Portafolio es digital y físico
 - [ ] Hacer problemas de las copias
+- [ ] Hacer los ejercicios restantes en MySQL (2 echos, Faltan 3)
 
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
