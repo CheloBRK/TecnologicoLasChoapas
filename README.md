@@ -35,7 +35,6 @@
 - [ ] Hacer los ejercicios restantes en MySQL (2 echos, Faltan 3)
 
 
-
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
 
@@ -101,7 +100,7 @@ _Para el Jueves 8 de Marzo_
 - [ ] Mapa Conceptual de la Metodologia de la Simulacion
 - [ ] 3 Ejercicios de Proyectos de Simulacion (Con sus 8 Preguntas Base y todos los pasos para su realizacion segun las diapositivas)
 - [ ] Invertigar Unidades I, II, III, IV 
-------------
+
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
