@@ -47,7 +47,8 @@
 - [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases)
 - [ ] Primeras dos actividades de aprendizaje del temario
 - [ ] Programa en Java con JFrame
-- [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion.
+- [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion. [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesWhatsapp/Interfas%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
+
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
