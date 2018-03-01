@@ -26,6 +26,7 @@
 ## Taller de Base de Datos
 <p align="center">M.C. Selene García Nieves</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20base%20de%20datos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [x] ~~Instalar MySQL~~
 - [ ] Darle formato a la libreta
 - [ ] Portafolio es digital y físico
@@ -37,6 +38,7 @@
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/T%C3%B3picos%20Avanzados%20de%20Programaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [ ] Aplicaciones móviles de SmartGeeks
 - [ ] Escala Likert
 - [ ] Formato IEEE830
@@ -49,6 +51,7 @@
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/F%C3%ADsica%20General%20-%20Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [x] ~~9 Actividades del alumno al final de la unidad I~~
 - [x] ~~Problema de fuerzas~~
 - [x] ~~2 Problemas de resultantes~~
@@ -63,6 +66,7 @@
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Principios%20El%C3%A9ctricos%20y%20Aplicaciones%20Digitales%20-%20Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [x] ~~Darle estructura a la libreta~~
 - [x] ~~Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta~~
 - [x] ~~Esperar documentos que va a entregar~~
@@ -79,6 +83,7 @@
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Simulaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [x] ~~Investigar el tema 1.1 en la libreta~~
 - [ ] Darle estructura a la libreta
 - [ ] Bajar el software PROMODEL
@@ -96,6 +101,7 @@ _Para el Jueves 8 de Marzo_
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Ecuaciones%20Diferenciales%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [ ] Darle formato a la libreta
 - [x] ~~Investigar el 1.1 y el 1.1.1 en la libreta~~
 - [x] ~~Ejercicio de Orden, Grado y Linealidad~~
@@ -106,6 +112,7 @@ _Para el Jueves 8 de Marzo_
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20Sistemas%20Operativos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 - [ ] Investigar 1.1, 1.2
 - [ ] Apuntes de las diapositivas (opcional)
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi y Windows 7 32bits
