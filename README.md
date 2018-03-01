@@ -45,15 +45,16 @@
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
 
-- [ ] 9 Actividades del alumno al final de la unidad I
+- [x] ~~9 Actividades del alumno al final de la unidad I~~
 - [x] ~~Problema de fuerzas~~
 - [x] ~~2 Problemas de resultantes~~
-- [ ] Investigar 1.5 Cuerpos rígidos y principio de transmisibilidad
+- [x] ~~Investigar 1.5 Cuerpos rígidos y principio de transmisibilidad~~
 - [x] ~~4 Problemas de tensión~~
-- [ ] Problema de momentos
-- [ ] Investigar el 1.7
-- [ ] Problemas de las fotos
+- [x] ~~Problema de momentos~~
+- [x] ~~Investigar el 1.7~~
+- [x] ~~Problemas de las fotos~~
 - [x] ~~Examen Unidad I~~
+- [ ] Caída Libre y fórmula general
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
