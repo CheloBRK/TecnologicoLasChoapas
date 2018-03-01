@@ -72,6 +72,7 @@
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
 - [x] ~~Investigar el tema 1.1 en la libreta~~
+- [ ] Darle estructura a la libreta
 - [ ] Bajar el software PROMODEL
 - [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
 - [ ] Problemas de las diapositivas
