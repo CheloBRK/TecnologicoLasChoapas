@@ -24,6 +24,7 @@
 </p>
 
 ## Taller de Base de Datos
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20base%20de%20datos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">M.C. Selene García Nieves</p>
 
 - [x] ~~Instalar MySQL~~
@@ -32,9 +33,10 @@
 - [ ] Hacer problemas de las copias
 - [ ] Hacer los ejercicios restantes en MySQL (2 echos, Faltan 3)
 
-[Temario - Base de Datos](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20base%20de%20datos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 
 ## Tópicos Avanzados de Programación
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/T%C3%B3picos%20Avanzados%20de%20Programaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
 
 - [ ] Aplicaciones móviles de SmartGeeks
@@ -47,6 +49,7 @@
 - [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion.
 
 ## Física General
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/F%C3%ADsica%20General%20-%20Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">Ing. Óscar Martínez Antonio</p>
 
 - [x] ~~9 Actividades del alumno al final de la unidad I~~
@@ -61,6 +64,7 @@
 - [ ] Caída Libre y fórmula general
 
 ## Principios Eléctricos y Aplicaciones Digitales
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Principios%20El%C3%A9ctricos%20y%20Aplicaciones%20Digitales%20-%20Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
 - [x] ~~Darle estructura a la libreta~~
@@ -77,6 +81,7 @@
 - [ ] Lista de materiales a usar()
 
 ## Simulación
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Simulaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
 - [x] ~~Investigar el tema 1.1 en la libreta~~
@@ -94,6 +99,7 @@ _Para el Jueves 8 de Marzo_
 ------------
 
 ## Ecuaciones Diferenciales
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Ecuaciones%20Diferenciales%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">Ing. Dámaris García Morales</p>
 
 - [ ] Darle formato a la libreta
@@ -104,6 +110,7 @@ _Para el Jueves 8 de Marzo_
 - [x] ~~Investigar los temas 1.1.2, 1.1.3, 1.1.4, 1.2, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5~~
 
 ## Taller de Sistemas Operativos
+[Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20Sistemas%20Operativos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
 
 - [ ] Investigar 1.1, 1.2
