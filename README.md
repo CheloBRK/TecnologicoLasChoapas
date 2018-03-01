@@ -79,7 +79,15 @@
 - [ ] Darle estructura a la libreta
 - [ ] Bajar el software PROMODEL
 - [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
-- [ ] Problemas de las diapositivas yfichas de registro
+- [ ] Problemas de las diapositivas y fichas de registro
+--------------------------------------------------------------
+- [ ] Examen - Miercoles 7 - Unidad 1
+--------------------------------------------------------------
+- Para el Jueves 8 de Marzo { 
+- [ ] Mapa Conceptual de la Metodologia de la Simulacion
+- [ ] 3 Ejercicios de Proyectos de Simulacion (Con sus 8 Preguntas Base y todos los pasos para su realizacion segun las diapositivas)
+- [ ] Invertigar Unidades I, II, III, IV 
+}
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
