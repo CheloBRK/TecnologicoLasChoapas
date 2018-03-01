@@ -96,8 +96,8 @@ _Para el Jueves 8 de Marzo_
 - [x] ~~Investigar el 1.1 y el 1.1.1 en la libreta~~
 - [x] ~~Ejercicio de Orden, Grado y Linealidad~~
 - [x] ~~Ecuación diferencial~~
-- [ ] Ecuaciones diferenciales
-- [ ] Investigar los temas 1.1.2, 1.1.3, 1.1.4, 1.2, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5
+- [x] ~~Ecuaciones diferenciales~~
+- [x] ~~Investigar los temas 1.1.2, 1.1.3, 1.1.4, 1.2, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5~~
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
