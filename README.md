@@ -83,7 +83,7 @@
 ------------
 - [ ] Examen - Miercoles 7 - Unidad 1
 ------------
-//Para el Jueves 8 de Marzo 
+# Para el Jueves 8 de Marzo 
 - [ ] Mapa Conceptual de la Metodologia de la Simulacion
 - [ ] 3 Ejercicios de Proyectos de Simulacion (Con sus 8 Preguntas Base y todos los pasos para su realizacion segun las diapositivas)
 - [ ] Invertigar Unidades I, II, III, IV 
