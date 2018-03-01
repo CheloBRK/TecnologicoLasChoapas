@@ -32,6 +32,8 @@
 - [ ] Hacer problemas de las copias
 - [ ] Hacer los ejercicios restantes en MySQL (2 echos, Faltan 3)
 
+[Temario - Base de Datos](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20base%20de%20datos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
+
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
 
