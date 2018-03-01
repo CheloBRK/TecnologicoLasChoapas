@@ -25,6 +25,7 @@
 
 ## Taller de Base de Datos
 <p align="center">M.C. Selene García Nieves</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20base%20de%20datos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [x] ~~Instalar MySQL~~
@@ -37,6 +38,7 @@
 
 ## Tópicos Avanzados de Programación
 <p align="center">M.C. José Alfonso Gómez Sánchez</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/T%C3%B3picos%20Avanzados%20de%20Programaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [ ] Aplicaciones móviles de SmartGeeks
@@ -50,6 +52,7 @@
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/F%C3%ADsica%20General%20-%20Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [x] ~~9 Actividades del alumno al final de la unidad I~~
@@ -65,6 +68,7 @@
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Principios%20El%C3%A9ctricos%20y%20Aplicaciones%20Digitales%20-%20Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [x] ~~Darle estructura a la libreta~~
@@ -82,6 +86,7 @@
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Simulaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [x] ~~Investigar el tema 1.1 en la libreta~~
@@ -100,6 +105,7 @@ _Para el Jueves 8 de Marzo_
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Ecuaciones%20Diferenciales%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [ ] Darle formato a la libreta
@@ -111,6 +117,7 @@ _Para el Jueves 8 de Marzo_
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
+
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20Sistemas%20Operativos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [ ] Investigar 1.1, 1.2
