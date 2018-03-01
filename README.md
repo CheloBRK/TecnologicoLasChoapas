@@ -26,7 +26,7 @@
 ## Taller de Base de Datos
 <p align="center">M.C. Selene García Nieves</p>
 
-- [ ] Instalar MySQL
+- [x] ~~Instalar MySQL~~
 - [ ] Darle formato a la libreta
 - [ ] Portafolio es digital y físico
 - [ ] Hacer problemas de las copias
@@ -53,12 +53,12 @@
 - [ ] Problema de momentos
 - [ ] Investigar el 1.7
 - [ ] Problemas de las fotos
-- [x] ~~ExamenUnidadI~~
+- [x] ~~Examen Unidad I~~
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
 
-- [ ] Darle estructura a la libreta
+- [x] ~~Darle estructura a la libreta~~
 - [x] ~~Investigar generación de energía eléctrica alterna y energía eléctrica continua en la libreta~~
 - [x] ~~Esperar documentos que va a entregar~~
 - [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
@@ -69,6 +69,7 @@
 - [ ] Investigar a cuanta corriente tiene nuestra lap
 - [ ] Cuantos watts consume la computadora
 - [ ] Cuanto gasta en una hora la computadora
+- [ ] Lista de materiales a usar()
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -77,7 +78,7 @@
 - [ ] Darle estructura a la libreta
 - [ ] Bajar el software PROMODEL
 - [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
-- [ ] Problemas de las diapositivas
+- [ ] Problemas de las diapositivas yfichas de registro
 
 ## Ecuaciones Diferenciales
 <p align="center">Ing. Dámaris García Morales</p>
