@@ -42,6 +42,7 @@
 - [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases)
 - [ ] Primeras dos actividades de aprendizaje del temario
 - [ ] Programa en Java con JFrame
+- [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion.
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
