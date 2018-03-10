@@ -49,7 +49,7 @@
 - [ ] Programa en Java con JFrame
 - [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion. [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesGrupoWhatsapp/Interfaz%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
 
-# _NEW_
+#### _NEW_
 - [ ] Realizar las tres interfacez de ChecksBoxs, Listas y Tablas. _(NEW)_
 
 ## Física General
