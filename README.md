@@ -40,15 +40,16 @@
 
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/T%C3%B3picos%20Avanzados%20de%20Programaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
-- [ ] Aplicaciones móviles de SmartGeeks
+- [ ] _Aplicaciones móviles de SmartGeeks
 - [ ] Escala Likert
 - [ ] Formato IEEE830
 - [ ] Investigar los subtemas 1.2 y 1.3 del temario
 - [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases)
 - [ ] Primeras dos actividades de aprendizaje del temario
 - [ ] Programa en Java con JFrame
-- [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion. [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesGrupoWhatsapp/Interfaz%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
+- [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion._ [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesGrupoWhatsapp/Interfaz%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
 
+- [ ] Realizar las tres interfacez de ChecksBoxs, Listas y Tablas.
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
@@ -64,7 +65,7 @@
 - [x] ~~Investigar el 1.7~~
 - [x] ~~Problemas de las fotos~~
 - [x] ~~Examen Unidad I~~
-- [ ] Caída Libre y fórmula general
+- [ ] _Caída Libre y fórmula general
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -76,13 +77,15 @@
 - [x] ~~Esperar documentos que va a entregar~~
 - [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
 - [x] ~~Cómo generar corriente eléctrica continua~~
-- [ ] Investigar que es un transistor (opcional)
+- [ ] _Investigar que es un transistor (opcional)
 - [ ] Lectura páginas desconocidas
 - [ ] Investigar el datasheet diodo IN4001 y obtener el amperaje a los 0.8 Volts
 - [ ] Investigar a cuanta corriente tiene nuestra lap
 - [ ] Cuantos watts consume la computadora
 - [ ] Cuanto gasta en una hora la computadora
-- [ ] Lista de materiales a usar()
+- [ ] Lista de materiales a usar()_
+
+- [ ] Investigar todas las unidades de Principios Electricos
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -90,14 +93,11 @@
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Simulaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [x] ~~Investigar el tema 1.1 en la libreta~~
-- [ ] Darle estructura a la libreta
+- [ ] _Darle estructura a la libreta
 - [ ] Bajar el software PROMODEL
 - [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
 - [ ] Problemas de las diapositivas y fichas de registro
-------------
-- [ ] Examen - Miercoles 7 - Unidad 1
-------------
-_Para el Jueves 8 de Marzo_ 
+- [x] ~~Examen - Miercoles 7 - Unidad 1~~
 - [ ] Mapa Conceptual de la Metodologia de la Simulacion
 - [ ] 3 Ejercicios de Proyectos de Simulacion (Con sus 8 Preguntas Base y todos los pasos para su realizacion segun las diapositivas)
 - [ ] Invertigar Unidades I, II, III, IV 
@@ -120,7 +120,7 @@ _Para el Jueves 8 de Marzo_
 
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20Sistemas%20Operativos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
-- [ ] Investigar 1.1, 1.2
+- [ ] _Investigar 1.1, 1.2
 - [ ] Apuntes de las diapositivas (opcional)
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi y Windows 7 32bits
 - [ ] Conseguir el virtualbox y buscar como habilitar la carpeta compartida.
@@ -140,7 +140,7 @@ _Para el Jueves 8 de Marzo_
 - [x] ~~Plurales regulares e irregulares~~
 - [x] ~~Abecedario y vocales~~
 - [x] ~~Personal information~~
-- [ ] 25 Verbs (Present, past, past participle)
+- [ ] _25 Verbs (Present, past, past participle)
 - [ ] 25 verbos que dicto
 - [ ] Texto de cualquier temática en ingles
 
