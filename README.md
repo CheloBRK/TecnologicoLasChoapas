@@ -48,7 +48,9 @@
 - [ ] Primeras dos actividades de aprendizaje del temario
 - [ ] Programa en Java con JFrame
 - [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion. [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesGrupoWhatsapp/Interfaz%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
-- [ ] Realizar las tres interfacez de ChecksBoxs, Listas y Tablas.
+
+# _NEW_
+- [ ] Realizar las tres interfacez de ChecksBoxs, Listas y Tablas. _(NEW)_
 
 ## Física General
 <p align="center">Ing. Óscar Martínez Antonio</p>
@@ -64,7 +66,7 @@
 - [x] ~~Investigar el 1.7~~
 - [x] ~~Problemas de las fotos~~
 - [x] ~~Examen Unidad I~~
-- [ ] _Caída Libre y fórmula general
+- [ ] Caída Libre y fórmula general
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -84,7 +86,7 @@
 - [ ] Cuanto gasta en una hora la computadora
 - [ ] Lista de materiales a usar()
 
-### _NEW_
+# _NEW_
 - [ ] Investigar todas las unidades de Principios Electricos _(NEW)_
 
 ## Simulación
