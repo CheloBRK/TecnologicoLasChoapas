@@ -86,7 +86,7 @@
 - [ ] Cuanto gasta en una hora la computadora
 - [ ] Lista de materiales a usar()
 
-# _NEW_
+#### _NEW_
 - [ ] Investigar todas las unidades de Principios Electricos _(NEW)_
 
 ## Simulación
