@@ -40,7 +40,7 @@
 
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/T%C3%B3picos%20Avanzados%20de%20Programaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
-- [ ] _Aplicaciones móviles de SmartGeeks
+- [ ] Aplicaciones móviles de SmartGeeks
 - [ ] Escala Likert
 - [ ] Formato IEEE830
 - [ ] Investigar los subtemas 1.2 y 1.3 del temario
@@ -77,15 +77,16 @@
 - [x] ~~Esperar documentos que va a entregar~~
 - [x] ~~Investigar el orden de conductividad eléctrica de distintos materiales~~
 - [x] ~~Cómo generar corriente eléctrica continua~~
-- [ ] _Investigar que es un transistor (opcional)
+- [ ] Investigar que es un transistor (opcional)
 - [ ] Lectura páginas desconocidas
 - [ ] Investigar el datasheet diodo IN4001 y obtener el amperaje a los 0.8 Volts
 - [ ] Investigar a cuanta corriente tiene nuestra lap
 - [ ] Cuantos watts consume la computadora
 - [ ] Cuanto gasta en una hora la computadora
-- [ ] Lista de materiales a usar()_
+- [ ] Lista de materiales a usar()
 
-- [ ] Investigar todas las unidades de Principios Electricos
+### _NEW_
+- [ ] Investigar todas las unidades de Principios Electricos _(NEW)_
 
 ## Simulación
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -93,7 +94,7 @@
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Simulaci%C3%B3n%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
 - [x] ~~Investigar el tema 1.1 en la libreta~~
-- [ ] _Darle estructura a la libreta
+- [ ] Darle estructura a la libreta
 - [ ] Bajar el software PROMODEL
 - [ ] Investigar todas las distribuciones discretas y continuas (Su comportamientos, 3 ejemplos de casos reales de cada distribución)
 - [ ] Problemas de las diapositivas y fichas de registro
@@ -120,7 +121,7 @@
 
 [Temario](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/SoloTemarios/Taller%20de%20Sistemas%20Operativos%20-Temario%20y%20Fuentes%20de%20Informacion.pdf)
 
-- [ ] _Investigar 1.1, 1.2
+- [ ] Investigar 1.1, 1.2
 - [ ] Apuntes de las diapositivas (opcional)
 - [ ] Traer software de simulación VirtualBox, WMware, Esxi y Windows 7 32bits
 - [ ] Conseguir el virtualbox y buscar como habilitar la carpeta compartida.
@@ -140,7 +141,7 @@
 - [x] ~~Plurales regulares e irregulares~~
 - [x] ~~Abecedario y vocales~~
 - [x] ~~Personal information~~
-- [ ] _25 Verbs (Present, past, past participle)
+- [ ] 25 Verbs (Present, past, past participle)
 - [ ] 25 verbos que dicto
 - [ ] Texto de cualquier temática en ingles
 
