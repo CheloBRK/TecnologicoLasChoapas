@@ -31,8 +31,9 @@
 - [x] ~~Instalar MySQL~~
 - [ ] Darle formato a la libreta
 - [ ] Portafolio es digital y físico
-- [ ] Hacer problemas de las copias
-- [ ] Hacer los ejercicios restantes en MySQL (2 echos, Faltan 3)
+- [x] ~~Hacer problemas de las copias~~
+- [x] ~~Hacer los ejercicios restantes en MySQL (2 echos, Faltan 3)~~
+- [x] ~~ExamenUnidadI~~
 
 
 ## Tópicos Avanzados de Programación
@@ -46,8 +47,8 @@
 - [ ] Investigar los subtemas 1.2 y 1.3 del temario
 - [ ] Estructura Libreta (Portada, Temario, Criterios de Evaluación, Reglas del juego(no celular, no grosería, no alimentos, uniforme en clases)
 - [ ] Primeras dos actividades de aprendizaje del temario
-- [ ] Programa en Java con JFrame
-- [ ] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion. [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesGrupoWhatsapp/Interfaz%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
+- [x] Programa en Java con JFrame
+- [x] Realizar la interfaz segun la imagen con Suma, Resta, Multiplicacion. [Imagen de la Interfaz](https://github.com/avexyk/TecnologicoLasChoapas/blob/master/Semestre4/ImagenesGrupoWhatsapp/Interfaz%20%20-%20Suma%2C%20Resta%2C%20Multiplicacion.jpg)
 
 #### _NEW_
 - [ ] Realizar las tres interfacez de ChecksBoxs, Listas y Tablas. _(NEW)_
@@ -66,7 +67,8 @@
 - [x] ~~Investigar el 1.7~~
 - [x] ~~Problemas de las fotos~~
 - [x] ~~Examen Unidad I~~
-- [ ] Caída Libre y fórmula general
+- [x] ~~Caída Libre y fórmula general~~
+- [ ] 7 actividades de Física
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
@@ -116,6 +118,8 @@
 - [x] ~~Ecuación diferencial~~
 - [x] ~~Ecuaciones diferenciales~~
 - [x] ~~Investigar los temas 1.1.2, 1.1.3, 1.1.4, 1.2, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5~~
+- [ ] Investigar los temas 2.1~2.1.6
+- [ ] 2 ejercicios resueltos de cada uno de los temas 1.2.1 al 1.2.5 utilizando 10 hojas en blanco de la libreta
 
 ## Taller de Sistemas Operativos
 <p align="center">M.R.T José Antonio Zárate Urgell</p>
@@ -145,6 +149,7 @@
 - [ ] 25 Verbs (Present, past, past participle)
 - [ ] 25 verbos que dicto
 - [ ] Texto de cualquier temática en ingles
+- [ ] Traduccion de las últimas palabras del vocabulario
 
 ## Horario
 
