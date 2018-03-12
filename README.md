@@ -69,6 +69,7 @@
 - [x] ~~Examen Unidad I~~
 - [x] ~~Caída Libre y fórmula general~~
 - [ ] 7 actividades de Física
+- [ ] 4 Actividades de la unidad 2
 
 ## Principios Eléctricos y Aplicaciones Digitales
 <p align="center">Ing. José Eduardo Gerónimo Castro</p>
